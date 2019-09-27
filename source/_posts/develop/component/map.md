@@ -343,3 +343,4 @@ Page({
 * map组件的 markers 的 label 暂不支持换行。
 * Android 与 iOS 定位精度不同，双端定位存在差异。
 * map 组件使用的经纬度是火星坐标系，调用 swan.getLocation 接口需要指定 type 为 gcj02。
+* map组件的 markers 的 callout 暂不支持换行。
